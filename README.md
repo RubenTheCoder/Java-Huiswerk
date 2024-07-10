@@ -11,4 +11,4 @@
 
 ### Les 3
 
-- ⬛ Student management
+- ⬛ Student management *(Verwachte voltooi datum - 12/07/2074)*
