@@ -42,10 +42,10 @@ public class LightningDistanceCalculator {
       double distance;
       if (unit.equals("feet")) {
         distance = seconds * 1100; // speed of sound ~1100 feet per second
-        System.out.printf("The distance is approximately %.2f feet.%n", distance);
+        System.out.println("The distance is approximately " + distance + " feet.");
       } else {
         distance = seconds * 343; // speed of sound ~343 meters per second
-        System.out.printf("The distance is approximately %.2f meters.%n", distance);
+        System.out.println("The distance is approximately " + distance + " meters.");
       }
 
       /*
