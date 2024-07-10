@@ -6,5 +6,9 @@
 
 ### Les 2
 
-- [x] Lightning opdracht
-- [x] Students opdracht
+- 🟦 Lightning opdracht
+- 🟦 Students opdracht
+
+### Les 3
+
+- ⬛ Student management
