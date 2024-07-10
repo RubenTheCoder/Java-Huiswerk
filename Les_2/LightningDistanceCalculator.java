@@ -52,8 +52,8 @@ public class LightningDistanceCalculator {
        * Ask if user wants to calculate distance again
        */
       System.out.println("Do you want to calculate again? (yes/no)");
-      String again = scanner.nextLine().trim().toLowerCase();
       scanner.nextLine(); // Consume the remaining newline to make input line stay
+      String again = scanner.nextLine().trim().toLowerCase();
       if (!again.equals("yes")) {
         break;
       }
