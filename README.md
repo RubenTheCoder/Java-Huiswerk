@@ -7,4 +7,4 @@
 ### Les 2
 
 - [x] Lightning opdracht
-- [ ] Students opdracht
+- [x] Students opdracht
